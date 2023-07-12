@@ -16,6 +16,11 @@
 • JIRA, ServiceNow <br />
 
 # CERTIFICATIONS
+![AWS Certified Solutions Architect - Associate certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/9b8ea865-32a5-46d7-9e8d-a26059ff0c17)
+![AWS Certified Solutions Architect - Professional certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/e6cc534b-c86a-4536-b97b-3942ffc30cf3)
+![AWS Certified Developer - Associate certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/29454a5a-79ec-42b3-b903-a12ed437bf15)
+![Samsul Adam M-2021-11453 - Aviatrix - MultiCloud Networking Associate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/757a50be-4e62-49b0-9155-5c8e0c2bc066)
+![Microsoft_Certified_Professional_Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/f70d5421-ca77-4345-a6ab-1d7b1aa95492)
 
 
 
@@ -28,3 +33,26 @@
 - [SQL Native Backup for RDS SQL Server in AWS](https://medium.com/cloudnloud/sql-native-backup-for-rds-sql-server-in-aws-1f3f0add95b1)
 - [AWS Migration Strategy](https://www.linkedin.com/posts/samsul-adam-m-2627a325_cloudnloud-mentoring-activity-7075765885994471425-jFKz?utm_source=share&utm_medium=member_desktop)
 - [AWS Migration Services](https://www.linkedin.com/posts/samsul-adam-m-2627a325_cloud-aws-azure-activity-7078206240253739008-Puwe?utm_source=share&utm_medium=member_desktop)
+
+
+
+#### 📫 How to reach me **shamsulmotoz2@gmail.com**
+
+## Connect with Me & Community 🤝🏻! 
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/samsul-adam-m-2627a325" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+
+<a href="https://www.youtube.com/@CloudnLoud" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="fawazcp" /></p>
+
