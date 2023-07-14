@@ -19,8 +19,27 @@
 ![AWS Certified Solutions Architect - Associate certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/9b8ea865-32a5-46d7-9e8d-a26059ff0c17)
 ![AWS Certified Solutions Architect - Professional certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/e6cc534b-c86a-4536-b97b-3942ffc30cf3)
 ![AWS Certified Developer - Associate certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/29454a5a-79ec-42b3-b903-a12ed437bf15)
+<img width="602" alt="KUBERNETES CERTIFICATION" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/6b080f1d-5326-407d-9743-77e68d9c2c7b">
 ![Samsul Adam M-2021-11453 - Aviatrix - MultiCloud Networking Associate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/757a50be-4e62-49b0-9155-5c8e0c2bc066)
 ![Microsoft_Certified_Professional_Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/f70d5421-ca77-4345-a6ab-1d7b1aa95492)
+<img width="605" alt="ALL 3 VPC SECURITY" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/89e5feab-a2db-4b46-a001-bde87b78af6f">
+<img width="605" alt="AWS TRANSIT GATEWAY CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/57b2e2ed-661e-4dba-b0aa-74186e5295e3">
+<img width="606" alt="COMMN" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/d797041a-08be-47f3-bc1f-668ce55acafd">
+<img width="606" alt="DEVOPS CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/b53f24ef-1872-4492-8563-e8550037c4dc">
+<img width="605" alt="GCP-ACE-ACG" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/1009fcdd-20b4-48b8-a51c-266e3c49aae2">
+<img width="605" alt="NETWORKING-CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/bcd346d2-04c5-43a2-b517-af449fbb236d">
+<img width="605" alt="SQL DBA CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/5399fdd4-4eaa-4e88-9c3b-26acbcd9c1c2">
+
+
+
+
+
+
+
+
+
+
+
 
 
 
