@@ -29,6 +29,16 @@
 <img width="605" alt="GCP-ACE-ACG" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/1009fcdd-20b4-48b8-a51c-266e3c49aae2">
 <img width="605" alt="NETWORKING-CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/bcd346d2-04c5-43a2-b517-af449fbb236d">
 <img width="605" alt="SQL DBA CERT" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/5399fdd4-4eaa-4e88-9c3b-26acbcd9c1c2">
+![VPCCOMPONENTS_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/47d760bd-a94f-405d-b1d7-6f168c278f9c)
+![Security_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/8ba698a2-643c-48a2-88d8-0be2221e3b9b)
+![CIDR_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/7aa62f5e-7b3e-4257-a9a4-1ea909b367b6)
+![AWSVPC_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/0bdd5a53-2ba8-4d5a-83e4-42ce585e2257)
+![AWSPrivateLink_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/e6101024-fdc3-4e41-b512-9377ec76771a)
+
+
+
+
+
 
 
 
