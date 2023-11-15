@@ -35,7 +35,7 @@
 ![AWSVPC_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/0bdd5a53-2ba8-4d5a-83e4-42ce585e2257)
 ![AWSPrivateLink_AWS Course Completion Certificate_page-0001](https://github.com/samsulcloud/samsulcloud/assets/139320632/e6101024-fdc3-4e41-b512-9377ec76771a)
 <img width="599" alt="Windows2k19-Cert-Samsul Adam M" src="https://github.com/samsulcloud/samsulcloud/assets/139320632/4fb30d08-270a-470b-93f9-de917905eb86">
-<![img12](https://github.com/samsulcloud/samsul-adam-m/assets/139320632/6cedd695-252f-49de-b6a3-fbefff6b173b)>
+![img12](https://github.com/samsulcloud/samsul-adam-m/assets/139320632/6cedd695-252f-49de-b6a3-fbefff6b173b)
 ![AWS Certified Advanced Networking - Specialty_page-0001](https://github.com/samsulcloud/samsul-adam-m/assets/139320632/07fb0eae-ca21-48e3-8946-0182e3e1b43f)
 
 
